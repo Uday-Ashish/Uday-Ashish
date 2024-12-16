@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">👋 Aspiring Engineer with a passion for software development, electronics, and sustainable technologies.<br>⚡ Skilled in C++, Python, JavaScript, and React, with hands-on experience in full-stack web development.<br>💡 Fascinated by renewable energy systems, IoT, and hardware-software integration.<br>📚 Currently exploring control systems, graph algorithms, and vehicle-to-grid technologies.<br>🚀 Excited to contribute to interdisciplinary projects that address real-world challenges.</h3>
+<h4 align="left">👋 Aspiring Engineer with a passion for software development, electronics, and sustainable technologies.<br><br>⚡ Skilled in C++, Python, JavaScript, and React, with hands-on experience in full-stack web development.<br><br>💡 Fascinated by renewable energy systems, IoT, and hardware-software integration.<br><br>📚 Currently exploring control systems, graph algorithms, and vehicle-to-grid technologies.<br><br>🚀 Excited to contribute to interdisciplinary projects that address real-world challenges.</h4>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">Programming Languages: C++, Python, JavaScript  <br>Frameworks & Tools: MERN Stack Dev, Python, Flask, Django, MATLAB Simulink<br>Concepts: Data Structures, Algorithms, Cryptography, and Sustainable Technologies</h3>
+<h4 align="left">💻 Programming Languages: C++, Python, JavaScript<br>  <br>⚙️ Frameworks & Tools: MERN Stack Dev, Python, Flask, Django, MATLAB Simulink<br><br>📚 Concepts: Data Structures, Algorithms, Cryptography, and Sustainable Technologies</h4>
 
 ###
 
@@ -70,7 +70,7 @@
 
 ###
 
-<h4 align="left">🌟 Term Paper on Simulation of Fuel Cell Vehicle-to-Grid System : Explored innovative energy storage and grid integration strategies to optimize renewable energy usage. <br>🌍 ProductPulse: A full-stack product review platform featuring star ratings, image uploads, and responsive design.  <br>💬 ChatWave: A real-time chat application built with the MERN stack, showcasing secure messaging and dynamic UI.</h4>
+<h4 align="left">🌟 Term Paper on Simulation of Fuel Cell Vehicle-to-Grid System: Explored innovative energy storage and grid integration strategies to optimize renewable energy usage. <br><br>🌍 ProductPulse: A full-stack product review platform featuring star ratings, image uploads, and responsive design. <br> <br>💬 ChatWave: A real-time chat application built with the MERN stack, showcasing secure messaging and dynamic UI.</h4>
 
 ###
 
